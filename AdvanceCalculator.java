@@ -200,8 +200,8 @@ public class AdvanceCalculator{
 		return x*(cos(x));
 	}
 	public static double feature1(double x,double y){
-		//Feautere no terminado
-		return (x*y)+;
+		//Feature terminado
+		return (x*y)+y;
 	}
 
 }
