@@ -199,5 +199,9 @@ public class AdvanceCalculator{
 	public static double h(double x){
 		return x*(cos(x));
 	}
-
+	
+	public static double feature1(double x,double y){
+		//Feature terminado
+		return (x*y)+y;
+	}
 }
