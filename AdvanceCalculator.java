@@ -199,19 +199,11 @@ public class AdvanceCalculator{
 	public static double h(double x){
 		return x*(cos(x));
 	}
-<<<<<<< HEAD
-	
-=======
 
-
->>>>>>> dev
 	public static double feature1(double x,double y){
 		//Feature terminado
 		return (x*y)+y;
 	}
-<<<<<<< HEAD
-=======
-
 	public static int feature2(int x, int y) {
 		return (x + y) / y;
 	}
@@ -223,5 +215,4 @@ public class AdvanceCalculator{
 	public static double feature4(double x){
 		return x*x;
 	}
->>>>>>> dev
 }
