@@ -204,7 +204,12 @@ public class AdvanceCalculator{
 		//Feature terminado
 		return (x*y)+y;
 	}
-	public static int feature2(int x, int y){
-		return (x+y)/y;
+
+	public static int feature2(int x, int y) {
+		return (x + y) / y;
+	}
+
+	public static int feature3(int operacion){
+		return operacion*2;
 	}
 }
