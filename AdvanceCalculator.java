@@ -199,5 +199,7 @@ public class AdvanceCalculator{
 	public static double h(double x){
 		return x*(cos(x));
 	}
-
+	public static double feature4(double x){
+		return x*x;
+	}
 }
